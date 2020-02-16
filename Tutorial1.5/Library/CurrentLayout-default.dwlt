@@ -15,7 +15,7 @@ MonoBehaviour:
   m_PixelRect:
     serializedVersion: 2
     x: 461
-    y: 81
+    y: 51
     width: 1209
     height: 981
   m_ShowMode: 4
@@ -384,10 +384,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 582
-    width: 930
-    height: 347
+    x: 461
+    y: 643
+    width: 932
+    height: 350
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -470,7 +470,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -521,7 +521,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 1393
-    y: 111
+    y: 81
     width: 275
     height: 912
   m_ViewDataDictionary: {fileID: 0}
@@ -559,7 +559,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 461
-    y: 111
+    y: 81
     width: 275
     height: 543
   m_ViewDataDictionary: {fileID: 0}
@@ -568,7 +568,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 70fbffff
+      m_ExpandedIDs: b0f9ffffd8f9ffff78faffff70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -713,7 +713,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 736
-    y: 111
+    y: 81
     width: 655
     height: 543
   m_ViewDataDictionary: {fileID: 0}
