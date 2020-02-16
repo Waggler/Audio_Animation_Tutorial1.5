@@ -376,12 +376,6 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
-      Hash: ade37ec6cd1f8ab0a386a0cd23a47272
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: AudioScript
-  - hash:
-      serializedVersion: 2
       Hash: c3d3430df9e3ea95e3e3d587961390fb
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
